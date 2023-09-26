@@ -1,0 +1,207 @@
+[
+    {
+      "id": 1,
+      "title": "Clean water for children",
+      "type": "Health",
+      "description": "This is product A description.",
+      "image": {
+        "main": "https://i.ibb.co/c1RcP9P/health.jpg",
+        "compressed": "https://i.ibb.co/64p14Sj/health-full.png",
+        "thumbnail": "https://i.ibb.co/7JXmVFf/health-thumbnail.png"
+      },
+      "donation_amount": 19.99,
+      "color": {
+        "main": "blue-500",
+        "light": "blue-300",
+        "water": "blue-100"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Good education",
+      "type": "Education",
+      "description": "Product B is a fantastic choice.",
+      "image": {
+        "main": "https://i.ibb.co/7QsQ4LK/education.jpg",
+        "compressed": "https://i.ibb.co/HhvYXsy/education-full.png",
+        "thumbnail": "https://i.ibb.co/NxJHBDj/education-thumbnail.png"
+      },
+      "donation_amount": 24.95,
+      "color": {
+        "main": "red-500",
+        "light": "red-300",
+        "water": "red-100"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Used Clothing Drive",
+      "type": "Clothing",
+      "description": "Get Product C today!",
+      "image": {
+        "main": "https://i.ibb.co/cgT2PTD/clothing.jpg",
+        "compressed": "https://i.ibb.co/cN5MgD6/clothing-full.png",
+        "thumbnail": "https://i.ibb.co/TkmfWng/clothing-thumbnail.png"
+      },
+      "donation_amount": 14.99,
+      "color": {
+        "main": "lime-500",
+        "light": "lime-300",
+        "water": "lime-100"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Better Food for Everyone",
+      "type": "Food",
+      "description": "Product D is the ultimate solution.",
+      "image": {
+        "main": "https://i.ibb.co/Kb1BCw8/food.jpg",
+        "compressed": "https://i.ibb.co/h8tpR1H/food-full.png",
+        "thumbnail": "https://i.ibb.co/XDjqrZW/food-thumbnail.png"
+      },
+      "donation_amount": 29.99,
+      "color": {
+        "main": "amber-500",
+        "light": "amber-300",
+        "water": "amber-100"
+      }
+    },
+    {
+      "id": 5,
+      "title": "Clean water for children",
+      "type": "Health",
+      "description": "Elevate your experience with Product E.",
+      "image": {
+        "main": "https://i.ibb.co/c1RcP9P/health.jpg",
+        "compressed": "https://i.ibb.co/64p14Sj/health-full.png",
+        "thumbnail": "https://i.ibb.co/7JXmVFf/health-thumbnail.png"
+      },
+      "donation_amount": 12.99,
+      "color": {
+        "main": "blue-500",
+        "light": "blue-300",
+        "water": "blue-100"
+      }
+    },
+    {
+      "id": 6,
+      "title": "Good education",
+      "type": "Education",
+      "description": "F is for fabulous!",
+      "image": {
+        "main": "https://i.ibb.co/7QsQ4LK/education.jpg",
+        "compressed": "https://i.ibb.co/HhvYXsy/education-full.png",
+        "thumbnail": "https://i.ibb.co/NxJHBDj/education-thumbnail.png"
+      },
+      "donation_amount": 34.99,
+      "color": {
+        "main": "red-500",
+        "light": "red-300",
+        "water": "red-100"
+      }
+    },
+    {
+      "id": 7,
+      "title": "Used Clothing Drive",
+      "type": "Clothing",
+      "description": "G is the way to go.",
+      "image": {
+        "main": "https://i.ibb.co/cgT2PTD/clothing.jpg",
+        "compressed": "https://i.ibb.co/cN5MgD6/clothing-full.png",
+        "thumbnail": "https://i.ibb.co/TkmfWng/clothing-thumbnail.png"
+      },
+      "donation_amount": 22.49,
+      "color": {
+        "main": "lime-500",
+        "light": "lime-300",
+        "water": "lime-100"
+      }
+    },
+    {
+      "id": 8,
+      "title": "Better Food for Everyone",
+      "type": "Food",
+      "description": "Discover the magic of H.",
+      "image": {
+        "main": "https://i.ibb.co/Kb1BCw8/food.jpg",
+        "compressed": "https://i.ibb.co/h8tpR1H/food-full.png",
+        "thumbnail": "https://i.ibb.co/XDjqrZW/food-thumbnail.png"
+      },
+      "donation_amount": 19.99,
+      "color": {
+        "main": "amber-500",
+        "light": "amber-300",
+        "water": "amber-100"
+      }
+    },
+    {
+      "id": 9,
+      "title": "Clean water for children",
+      "type": "Health",
+      "description": "I is the future.",
+      "image": {
+        "main": "https://i.ibb.co/c1RcP9P/health.jpg",
+        "compressed": "https://i.ibb.co/64p14Sj/health-full.png",
+        "thumbnail": "https://i.ibb.co/7JXmVFf/health-thumbnail.png"
+      },
+      "donation_amount": 27.99,
+      "color": {
+        "main": "blue-500",
+        "light": "blue-300",
+        "water": "blue-100"
+      }
+    },
+    {
+      "id": 10,
+      "title": "Good education",
+      "type": "Education",
+      "description": "J is a must-have.",
+      "image": {
+        "main": "https://i.ibb.co/7QsQ4LK/education.jpg",
+        "compressed": "https://i.ibb.co/HhvYXsy/education-full.png",
+        "thumbnail": "https://i.ibb.co/NxJHBDj/education-thumbnail.png"
+      },
+      "donation_amount": 16.99,
+      "color": {
+        "main": "red-500",
+        "light": "red-300",
+        "water": "red-100"
+      }
+    },
+    {
+      "id": 11,
+      "title": "Used Clothing Drive",
+      "type": "Clothing",
+      "description": "K is king.",
+      "image": {
+        "main": "https://i.ibb.co/cgT2PTD/clothing.jpg",
+        "compressed": "https://i.ibb.co/cN5MgD6/clothing-full.png",
+        "thumbnail": "https://i.ibb.co/TkmfWng/clothing-thumbnail.png"
+      },
+      "donation_amount": 32.50,
+      "color": {
+        "main": "lime-500",
+        "light": "lime-300",
+        "water": "lime-100"
+      }
+    },
+    {
+      "id": 12,
+      "title":"Better Food for Everyone",
+      "type":"Food",
+      "description": "L brings luxury to your life.",
+      "image": {
+        "main": "https://i.ibb.co/Kb1BCw8/food.jpg",
+        "compressed": "https://i.ibb.co/h8tpR1H/food-full.png",
+        "thumbnail": "https://i.ibb.co/XDjqrZW/food-thumbnail.png"
+      },
+      "donation_amount": 44.99,
+      "color": {
+        "main": "blue-500",
+        "light": "blue-300",
+        "water": "blue-100"
+      }
+    }
+  ]
+  
