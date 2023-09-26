@@ -11,9 +11,9 @@
       },
       "donation_amount": 19.99,
       "color": {
-        "main": "blue-500",
-        "light": "blue-300",
-        "water": "blue-100"
+        "main": "#3B82F6",
+        "light": "#93C5FD",
+        "water": "#DBEAFE"
       }
     },
     {
@@ -28,9 +28,9 @@
       },
       "donation_amount": 24.95,
       "color": {
-        "main": "red-500",
-        "light": "red-300",
-        "water": "red-100"
+        "main": "#EF4444",
+        "light": "#FCA5A5",
+        "water": "#FEE2E2"
       }
     },
     {
@@ -45,9 +45,9 @@
       },
       "donation_amount": 14.99,
       "color": {
-        "main": "lime-500",
-        "light": "lime-300",
-        "water": "lime-100"
+        "main": "#65A30D",
+        "light": "#BEF264",
+        "water": "#ECFCCB"
       }
     },
     {
@@ -62,9 +62,9 @@
       },
       "donation_amount": 29.99,
       "color": {
-        "main": "amber-500",
-        "light": "amber-300",
-        "water": "amber-100"
+        "main": "#D97706",
+        "light": "#FCD34D",
+        "water": "#FEF3C7"
       }
     },
     {
@@ -79,9 +79,9 @@
       },
       "donation_amount": 12.99,
       "color": {
-        "main": "blue-500",
-        "light": "blue-300",
-        "water": "blue-100"
+        "main": "#3B82F6",
+        "light": "#93C5FD",
+        "water": "#DBEAFE"
       }
     },
     {
@@ -96,9 +96,9 @@
       },
       "donation_amount": 34.99,
       "color": {
-        "main": "red-500",
-        "light": "red-300",
-        "water": "red-100"
+        "main": "#EF4444",
+        "light": "#FCA5A5",
+        "water": "#FEE2E2"
       }
     },
     {
@@ -113,9 +113,9 @@
       },
       "donation_amount": 22.49,
       "color": {
-        "main": "lime-500",
-        "light": "lime-300",
-        "water": "lime-100"
+        "main": "#65A30D",
+        "light": "#BEF264",
+        "water": "#ECFCCB"
       }
     },
     {
@@ -130,9 +130,9 @@
       },
       "donation_amount": 19.99,
       "color": {
-        "main": "amber-500",
-        "light": "amber-300",
-        "water": "amber-100"
+        "main": "#D97706",
+        "light": "#FCD34D",
+        "water": "#FEF3C7"
       }
     },
     {
@@ -147,9 +147,9 @@
       },
       "donation_amount": 27.99,
       "color": {
-        "main": "blue-500",
-        "light": "blue-300",
-        "water": "blue-100"
+        "main": "#3B82F6",
+        "light": "#93C5FD",
+        "water": "#DBEAFE"
       }
     },
     {
@@ -164,9 +164,9 @@
       },
       "donation_amount": 16.99,
       "color": {
-        "main": "red-500",
-        "light": "red-300",
-        "water": "red-100"
+        "main": "#EF4444",
+        "light": "#FCA5A5",
+        "water": "#FEE2E2"
       }
     },
     {
@@ -181,9 +181,9 @@
       },
       "donation_amount": 32.50,
       "color": {
-        "main": "lime-500",
-        "light": "lime-300",
-        "water": "lime-100"
+        "main": "#65A30D",
+        "light": "#BEF264",
+        "water": "#ECFCCB"
       }
     },
     {
@@ -198,9 +198,9 @@
       },
       "donation_amount": 44.99,
       "color": {
-        "main": "amber-500",
-        "light": "amber-300",
-        "water": "amber-100"
+        "main": "#D97706",
+        "light": "#FCD34D",
+        "water": "#FEF3C7"
       }
     }
   ]

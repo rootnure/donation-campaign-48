@@ -17,7 +17,7 @@ const DonationDetails = () => {
                     <figure className="max-h-[500px] rounded-md"><img src={image.main} alt={`Banner image of ${title}`} /></figure>
                     <div className="relative z-20">
                         <div className="card-actions bottom-0 absolute bg-[#00000099] w-full rounded-md rounded-t-none">
-                            <button className={`btn border-0 hover:text-${color.main} my-8 ms-6 text-white font-bold normal-case bg-${color.main}`}>Donate ${donation_amount}</button>
+                            <button style={{backgroundColor: `${color.main}`}} title={`Click to donate $${donation_amount} to "${title}" fund`} className="btn border-0 my-8 ms-6 hover:scale-105 text-white font-bold normal-case">Donate ${donation_amount}</button>
                         </div>
                     </div>
                 </div>
