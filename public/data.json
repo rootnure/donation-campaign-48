@@ -2,7 +2,7 @@
     {
       "id": 1,
       "title": "Clean water for children",
-      "type": "Health",
+      "category": "Health",
       "description": "This is product A description.",
       "image": {
         "main": "https://i.ibb.co/c1RcP9P/health.jpg",
@@ -19,7 +19,7 @@
     {
       "id": 2,
       "title": "Good education",
-      "type": "Education",
+      "category": "Education",
       "description": "Product B is a fantastic choice.",
       "image": {
         "main": "https://i.ibb.co/7QsQ4LK/education.jpg",
@@ -36,7 +36,7 @@
     {
       "id": 3,
       "title": "Used Clothing Drive",
-      "type": "Clothing",
+      "category": "Clothing",
       "description": "Get Product C today!",
       "image": {
         "main": "https://i.ibb.co/cgT2PTD/clothing.jpg",
@@ -53,7 +53,7 @@
     {
       "id": 4,
       "title": "Better Food for Everyone",
-      "type": "Food",
+      "category": "Food",
       "description": "Product D is the ultimate solution.",
       "image": {
         "main": "https://i.ibb.co/Kb1BCw8/food.jpg",
@@ -70,7 +70,7 @@
     {
       "id": 5,
       "title": "Clean water for children",
-      "type": "Health",
+      "category": "Health",
       "description": "Elevate your experience with Product E.",
       "image": {
         "main": "https://i.ibb.co/c1RcP9P/health.jpg",
@@ -87,7 +87,7 @@
     {
       "id": 6,
       "title": "Good education",
-      "type": "Education",
+      "category": "Education",
       "description": "F is for fabulous!",
       "image": {
         "main": "https://i.ibb.co/7QsQ4LK/education.jpg",
@@ -104,7 +104,7 @@
     {
       "id": 7,
       "title": "Used Clothing Drive",
-      "type": "Clothing",
+      "category": "Clothing",
       "description": "G is the way to go.",
       "image": {
         "main": "https://i.ibb.co/cgT2PTD/clothing.jpg",
@@ -121,7 +121,7 @@
     {
       "id": 8,
       "title": "Better Food for Everyone",
-      "type": "Food",
+      "category": "Food",
       "description": "Discover the magic of H.",
       "image": {
         "main": "https://i.ibb.co/Kb1BCw8/food.jpg",
@@ -138,7 +138,7 @@
     {
       "id": 9,
       "title": "Clean water for children",
-      "type": "Health",
+      "category": "Health",
       "description": "I is the future.",
       "image": {
         "main": "https://i.ibb.co/c1RcP9P/health.jpg",
@@ -155,7 +155,7 @@
     {
       "id": 10,
       "title": "Good education",
-      "type": "Education",
+      "category": "Education",
       "description": "J is a must-have.",
       "image": {
         "main": "https://i.ibb.co/7QsQ4LK/education.jpg",
@@ -172,7 +172,7 @@
     {
       "id": 11,
       "title": "Used Clothing Drive",
-      "type": "Clothing",
+      "category": "Clothing",
       "description": "K is king.",
       "image": {
         "main": "https://i.ibb.co/cgT2PTD/clothing.jpg",
@@ -189,7 +189,7 @@
     {
       "id": 12,
       "title":"Better Food for Everyone",
-      "type":"Food",
+      "category":"Food",
       "description": "L brings luxury to your life.",
       "image": {
         "main": "https://i.ibb.co/Kb1BCw8/food.jpg",
@@ -198,9 +198,9 @@
       },
       "donation_amount": 44.99,
       "color": {
-        "main": "blue-500",
-        "light": "blue-300",
-        "water": "blue-100"
+        "main": "amber-500",
+        "light": "amber-300",
+        "water": "amber-100"
       }
     }
   ]

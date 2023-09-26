@@ -3,7 +3,7 @@
 const Footer = () => {
     return (
         <footer className="h-20">
-            <p className="text-4xl">Footer</p>
+            <p className="text-4xl text-center">Footer</p>
         </footer>
     );
 };
