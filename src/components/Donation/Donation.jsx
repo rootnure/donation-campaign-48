@@ -6,7 +6,7 @@ import { useLoaderData } from "react-router-dom";
 
 const Donation = () => {
 
-    const donations = useLoaderData();
+    const donations = useLoaderData() || fetch('data.json').then(res=>res.json()).then(data => data);
 
     const [donatedList, setDonatedList] = useState([]);
 
@@ -16,7 +16,6 @@ const Donation = () => {
         if (donations.length > 0) {
             const donated = donations.filter(donate => storedDonationIds.includes(donate.id));
             setDonatedList(donated);
-            console.log(donations, storedDonationIds, donated);
         }
 
     }, [donations]);

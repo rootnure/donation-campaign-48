@@ -11,7 +11,9 @@ const DonatedListCard = ({ donated }) => {
                 <img src={image.thumbnail} alt={`Thumbnail of ${title} donation`} className='rounded rounded-r-none h-full w-full' />
             </figure>
             <div style={{ backgroundColor: `${color.water}` }} className="card-body text-left space-y-0 rounded rounded-s-none">
-                <p style={{ backgroundColor: `${color.light}`, color: `${color.main}` }} className='px-2 h-fit w-fit rounded flex items-center'>{category}</p>
+                <div>
+                    <p style={{ backgroundColor: `${color.light}`, color: `${color.main}` }} className='px-2 py-1 h-fit w-fit rounded flex items-center'>{category}</p>
+                </div>
                 <h2 className="card-title">{title}</h2>
                 <p style={{ color: `${color.main}` }} className='font-bold'>${donation_amount}</p>
                 <div className="card-actions">
