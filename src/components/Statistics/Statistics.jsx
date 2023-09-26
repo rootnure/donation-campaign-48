@@ -5,8 +5,8 @@ import { getStoredDonations } from '../../localStorage';
 
 const Statistics = () => {
     const [data, setData] = useState([
-        {name: 'a', value: 11},
-        {name: 'b', value: 1},
+        {name: 'a', value: 10},
+        {name: 'b', value: 0},
     ])
 
     useEffect(() => {
@@ -19,7 +19,7 @@ const Statistics = () => {
                 {name: 'b', value: donatedTotal.length},
             ])
         })
-    }, [data]);
+    }, []);
 
     const colors = ['#FF444A', '#00C49F'];
 
