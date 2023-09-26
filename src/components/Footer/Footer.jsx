@@ -3,7 +3,7 @@
 const Footer = () => {
     return (
         <footer className="h-20">
-            <p className="text-4xl text-center">Footer</p>
+            <p className="text-sm text-center">&copy; 2023 | Iffad Foundation</p>
         </footer>
     );
 };
