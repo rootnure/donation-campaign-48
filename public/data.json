@@ -86,23 +86,6 @@
     },
     {
       "id": 6,
-      "title": "Recycle Used Clothing by Donating",
-      "category": "Clothing",
-      "description": "Offering used clothing as a donation to support disadvantaged individuals is a compassionate gesture with the potential to significantly enhance their lives. By collecting gently worn attire from our own closets and seeking contributions from our community, we have the capacity to create a substantial positive influence. Efficiently organizing and delivering these clothing items to local shelters, community centers, schools, and charitable organizations ensures that they benefit those in need. Beyond providing warmth and comfort, this act of kindness also champions sustainability by prolonging the lifespan of clothing and reducing unnecessary waste. It stands as a straightforward yet impactful means of contributing to the welfare of our fellow community members and fostering a more inclusive and empathetic society.",
-      "image": {
-        "main": "https://i.ibb.co/cgT2PTD/clothing.jpg",
-        "compressed": "https://i.ibb.co/cN5MgD6/clothing-full.png",
-        "thumbnail": "https://i.ibb.co/TkmfWng/clothing-thumbnail.png"
-      },
-      "donation_amount": 22.49,
-      "color": {
-        "main": "#65A30D",
-        "light": "#BEF264",
-        "water": "#ECFCCB"
-      }
-    },
-    {
-      "id": 7,
       "title": "Clean water for all",
       "category": "Health",
       "description": "Ensuring access to clean water for all is a fundamental human right and a critical global imperative. Clean water is essential for sustaining life, promoting good health, and enabling socio-economic development. It not only prevents waterborne diseases but also enhances overall well-being, particularly for vulnerable populations in impoverished areas. Access to clean water is pivotal in breaking the cycle of poverty by improving hygiene, enabling agricultural productivity, and facilitating education, especially for girls who are often burdened with fetching water over long distances. It's a vital component in building resilient communities and fostering sustainable development, underlining the urgency and moral duty to work collectively toward universal access to clean, safe water sources.",
@@ -116,6 +99,23 @@
         "main": "#3B82F6",
         "light": "#93C5FD",
         "water": "#DBEAFE"
+      }
+    },
+    {
+      "id": 7,
+      "title": "Recycle Used Clothing by Donating",
+      "category": "Clothing",
+      "description": "Offering used clothing as a donation to support disadvantaged individuals is a compassionate gesture with the potential to significantly enhance their lives. By collecting gently worn attire from our own closets and seeking contributions from our community, we have the capacity to create a substantial positive influence. Efficiently organizing and delivering these clothing items to local shelters, community centers, schools, and charitable organizations ensures that they benefit those in need. Beyond providing warmth and comfort, this act of kindness also champions sustainability by prolonging the lifespan of clothing and reducing unnecessary waste. It stands as a straightforward yet impactful means of contributing to the welfare of our fellow community members and fostering a more inclusive and empathetic society.",
+      "image": {
+        "main": "https://i.ibb.co/cgT2PTD/clothing.jpg",
+        "compressed": "https://i.ibb.co/cN5MgD6/clothing-full.png",
+        "thumbnail": "https://i.ibb.co/TkmfWng/clothing-thumbnail.png"
+      },
+      "donation_amount": 22.49,
+      "color": {
+        "main": "#65A30D",
+        "light": "#BEF264",
+        "water": "#ECFCCB"
       }
     },
     {
