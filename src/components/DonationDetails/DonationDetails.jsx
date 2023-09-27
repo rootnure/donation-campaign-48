@@ -35,7 +35,7 @@ const DonationDetails = () => {
                         </div>
                     </div>
                 </div>
-                <div className="space-y-6">
+                <div className="space-y-6 px-4 xl:px-0">
                     <h2 className="text-3xl font-bold">{title}</h2>
                     <p className="text-justify">{description}</p>
                 </div>
