@@ -1,15 +1,17 @@
 import { useEffect, useState } from 'react';
 import DonationCard from '../DonationCard/DonationCard';
+import PropTypes from 'prop-types';
 
-const AvailableDonations = () => {
+
+const AvailableDonations = ({searchText}) => {
 
     const [allDonation, setAllDonation] = useState([]);
 
     useEffect(() => {
         fetch('data.json')
         .then(res => res.json())
-        .then(data => setAllDonation(data));
-    }, [])
+        .then(data => setAllDonation(!searchText || searchText.toLowerCase() === 'a' || searchText.toLowerCase() === 'all' ? data : data.filter(singleData => singleData?.category.toLowerCase().includes(searchText.toLowerCase()))));
+    }, [searchText])
 
     return (
         <section className='my-16'>
@@ -23,5 +25,9 @@ const AvailableDonations = () => {
         </section>
     );
 };
+
+AvailableDonations.propTypes = {
+    searchText: PropTypes.string
+}
 
 export default AvailableDonations;

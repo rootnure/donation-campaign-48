@@ -11,9 +11,9 @@
       },
       "donation_amount": 19.99,
       "color": {
-        "main": "#3B82F6",
-        "light": "#93C5FD",
-        "water": "#DBEAFE"
+        "text_and_btn_bg": "#3B82F6",
+        "category_bg": "#93C5FD",
+        "card_bg": "#DBEAFE"
       }
     },
     {
@@ -28,9 +28,9 @@
       },
       "donation_amount": 14.99,
       "color": {
-        "main": "#65A30D",
-        "light": "#BEF264",
-        "water": "#ECFCCB"
+        "text_and_btn_bg": "#65A30D",
+        "category_bg": "#BEF264",
+        "card_bg": "#ECFCCB"
       }
     },
     {
@@ -45,9 +45,9 @@
       },
       "donation_amount": 24.95,
       "color": {
-        "main": "#EF4444",
-        "light": "#FCA5A5",
-        "water": "#FEE2E2"
+        "text_and_btn_bg": "#EF4444",
+        "category_bg": "#FCA5A5",
+        "card_bg": "#FEE2E2"
       }
     },
     {
@@ -62,9 +62,9 @@
       },
       "donation_amount": 29.99,
       "color": {
-        "main": "#D97706",
-        "light": "#FCD34D",
-        "water": "#FEF3C7"
+        "text_and_btn_bg": "#D97706",
+        "category_bg": "#FCD34D",
+        "card_bg": "#FEF3C7"
       }
     },
     {
@@ -79,9 +79,9 @@
       },
       "donation_amount": 34.99,
       "color": {
-        "main": "#EF4444",
-        "light": "#FCA5A5",
-        "water": "#FEE2E2"
+        "text_and_btn_bg": "#EF4444",
+        "category_bg": "#FCA5A5",
+        "card_bg": "#FEE2E2"
       }
     },
     {
@@ -96,9 +96,9 @@
       },
       "donation_amount": 12.99,
       "color": {
-        "main": "#3B82F6",
-        "light": "#93C5FD",
-        "water": "#DBEAFE"
+        "text_and_btn_bg": "#3B82F6",
+        "category_bg": "#93C5FD",
+        "card_bg": "#DBEAFE"
       }
     },
     {
@@ -113,9 +113,9 @@
       },
       "donation_amount": 22.49,
       "color": {
-        "main": "#65A30D",
-        "light": "#BEF264",
-        "water": "#ECFCCB"
+        "text_and_btn_bg": "#65A30D",
+        "category_bg": "#BEF264",
+        "card_bg": "#ECFCCB"
       }
     },
     {
@@ -130,9 +130,9 @@
       },
       "donation_amount": 27.99,
       "color": {
-        "main": "#3B82F6",
-        "light": "#93C5FD",
-        "water": "#DBEAFE"
+        "text_and_btn_bg": "#3B82F6",
+        "category_bg": "#93C5FD",
+        "card_bg": "#DBEAFE"
       }
     },
     {
@@ -147,9 +147,9 @@
       },
       "donation_amount": 19.99,
       "color": {
-        "main": "#D97706",
-        "light": "#FCD34D",
-        "water": "#FEF3C7"
+        "text_and_btn_bg": "#D97706",
+        "category_bg": "#FCD34D",
+        "card_bg": "#FEF3C7"
       }
     },
     {
@@ -164,9 +164,9 @@
       },
       "donation_amount": 32.50,
       "color": {
-        "main": "#65A30D",
-        "light": "#BEF264",
-        "water": "#ECFCCB"
+        "text_and_btn_bg": "#65A30D",
+        "category_bg": "#BEF264",
+        "card_bg": "#ECFCCB"
       }
     },
     {
@@ -181,9 +181,9 @@
       },
       "donation_amount": 16.99,
       "color": {
-        "main": "#EF4444",
-        "light": "#FCA5A5",
-        "water": "#FEE2E2"
+        "text_and_btn_bg": "#EF4444",
+        "category_bg": "#FCA5A5",
+        "card_bg": "#FEE2E2"
       }
     },
     {
@@ -198,9 +198,9 @@
       },
       "donation_amount": 44.99,
       "color": {
-        "main": "#D97706",
-        "light": "#FCD34D",
-        "water": "#FEF3C7"
+        "text_and_btn_bg": "#D97706",
+        "category_bg": "#FCD34D",
+        "card_bg": "#FEF3C7"
       }
     }
   ]

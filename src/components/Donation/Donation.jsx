@@ -6,22 +6,22 @@ import { useLoaderData } from "react-router-dom";
 
 const Donation = () => {
 
-    const donations = useLoaderData() || fetch('data.json').then(res=>res.json()).then(data => data);
-
+    const donations = useLoaderData();
+    
     const [donatedList, setDonatedList] = useState([]);
-
+    const [loadDonatedListLength, setLoadDonatedListLength] = useState(4);
+    const [isSeeAllVisible, setIsSeeAllVisible] = useState(false);
+    
     useEffect(() => {
         const storedDonationIds = getStoredDonations();
 
         if (donations.length > 0) {
             const donated = donations.filter(donate => storedDonationIds.includes(donate.id));
             setDonatedList(donated);
+            setIsSeeAllVisible(donated.length > 4);
         }
 
     }, [donations]);
-
-    const [loadDonatedListLength, setLoadDonatedListLength] = useState(4);
-    const [isSeeAllVisible, setIsSeeAllVisible] = useState(true);
 
     return (
         <main className='container mx-auto min-h-[calc(100vh-250px)]'>
