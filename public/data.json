@@ -18,6 +18,23 @@
     },
     {
       "id": 2,
+      "title": "Used Clothing Drive",
+      "category": "Clothing",
+      "description": "Assisting the less fortunate by providing used clothing is a heartfelt gesture that can significantly improve their lives. By gathering clean and gently used garments from your own wardrobe and seeking contributions from your community, you can make a meaningful impact. Once collected, organizing the clothing by size and season simplifies the distribution process. Reach out to local shelters, community centers, schools, churches, and nonprofit organizations to distribute the clothing to those in need. Always prioritize dignity and privacy when offering these items. Promote sustainability by emphasizing the value of recycling and reusing clothing, and consider making this an ongoing commitment to foster lasting change within your community.",
+      "image": {
+        "main": "https://i.ibb.co/cgT2PTD/clothing.jpg",
+        "compressed": "https://i.ibb.co/cN5MgD6/clothing-full.png",
+        "thumbnail": "https://i.ibb.co/TkmfWng/clothing-thumbnail.png"
+      },
+      "donation_amount": 14.99,
+      "color": {
+        "main": "#65A30D",
+        "light": "#BEF264",
+        "water": "#ECFCCB"
+      }
+    },
+    {
+      "id": 3,
       "title": "Good education",
       "category": "Education",
       "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
@@ -34,27 +51,10 @@
       }
     },
     {
-      "id": 3,
-      "title": "Used Clothing Drive",
-      "category": "Clothing",
-      "description": "Get Product C today!",
-      "image": {
-        "main": "https://i.ibb.co/cgT2PTD/clothing.jpg",
-        "compressed": "https://i.ibb.co/cN5MgD6/clothing-full.png",
-        "thumbnail": "https://i.ibb.co/TkmfWng/clothing-thumbnail.png"
-      },
-      "donation_amount": 14.99,
-      "color": {
-        "main": "#65A30D",
-        "light": "#BEF264",
-        "water": "#ECFCCB"
-      }
-    },
-    {
       "id": 4,
       "title": "Better Food for Everyone",
       "category": "Food",
-      "description": "Product D is the ultimate solution.",
+      "description": "\"Better Food for Everyone\" is a compelling vision for a world where access to nutritious, sustainable food is a fundamental right. It's a call to action that transcends borders and backgrounds, emphasizing the need to reform our food systems. This initiative challenges us to prioritize local, organic, and environmentally responsible choices in our diets. It underscores the importance of supporting farmers who employ ethical and sustainable practices while reducing food waste. In essence, \"Better Food for Everyone\" encourages a collective shift towards healthier eating habits that not only nourish our bodies but also safeguard the planet for future generations. It's a cause that unites us in the pursuit of a brighter, healthier, and more equitable future.",
       "image": {
         "main": "https://i.ibb.co/Kb1BCw8/food.jpg",
         "compressed": "https://i.ibb.co/h8tpR1H/food-full.png",
@@ -69,26 +69,9 @@
     },
     {
       "id": 5,
-      "title": "Clean water for children",
-      "category": "Health",
-      "description": "Elevate your experience with Product E.",
-      "image": {
-        "main": "https://i.ibb.co/c1RcP9P/health.jpg",
-        "compressed": "https://i.ibb.co/64p14Sj/health-full.png",
-        "thumbnail": "https://i.ibb.co/7JXmVFf/health-thumbnail.png"
-      },
-      "donation_amount": 12.99,
-      "color": {
-        "main": "#3B82F6",
-        "light": "#93C5FD",
-        "water": "#DBEAFE"
-      }
-    },
-    {
-      "id": 6,
-      "title": "Good education",
+      "title": "Quality education for all",
       "category": "Education",
-      "description": "F is for fabulous!",
+      "description": "Ensuring quality education for children in impoverished areas is paramount. Education not only equips these young minds with the knowledge and skills needed to break the cycle of poverty but also empowers them to reach their full potential. It fosters critical thinking, creativity, and problem-solving abilities, enabling them to become active participants in the workforce and contribute to the economic development of their communities. Moreover, a solid education promotes better health, social mobility, and a deeper understanding of civic responsibilities, thus laying the foundation for a more equitable and prosperous society. In essence, good education in poor areas is not just a fundamental right; it's a catalyst for positive change, breaking down barriers and opening doors to brighter futures.",
       "image": {
         "main": "https://i.ibb.co/7QsQ4LK/education.jpg",
         "compressed": "https://i.ibb.co/HhvYXsy/education-full.png",
@@ -102,10 +85,10 @@
       }
     },
     {
-      "id": 7,
-      "title": "Used Clothing Drive",
+      "id": 6,
+      "title": "Recycle Used Clothing by Donating",
       "category": "Clothing",
-      "description": "G is the way to go.",
+      "description": "Offering used clothing as a donation to support disadvantaged individuals is a compassionate gesture with the potential to significantly enhance their lives. By collecting gently worn attire from our own closets and seeking contributions from our community, we have the capacity to create a substantial positive influence. Efficiently organizing and delivering these clothing items to local shelters, community centers, schools, and charitable organizations ensures that they benefit those in need. Beyond providing warmth and comfort, this act of kindness also champions sustainability by prolonging the lifespan of clothing and reducing unnecessary waste. It stands as a straightforward yet impactful means of contributing to the welfare of our fellow community members and fostering a more inclusive and empathetic society.",
       "image": {
         "main": "https://i.ibb.co/cgT2PTD/clothing.jpg",
         "compressed": "https://i.ibb.co/cN5MgD6/clothing-full.png",
@@ -119,27 +102,27 @@
       }
     },
     {
-      "id": 8,
-      "title": "Better Food for Everyone",
-      "category": "Food",
-      "description": "Discover the magic of H.",
+      "id": 7,
+      "title": "Clean water for all",
+      "category": "Health",
+      "description": "Ensuring access to clean water for all is a fundamental human right and a critical global imperative. Clean water is essential for sustaining life, promoting good health, and enabling socio-economic development. It not only prevents waterborne diseases but also enhances overall well-being, particularly for vulnerable populations in impoverished areas. Access to clean water is pivotal in breaking the cycle of poverty by improving hygiene, enabling agricultural productivity, and facilitating education, especially for girls who are often burdened with fetching water over long distances. It's a vital component in building resilient communities and fostering sustainable development, underlining the urgency and moral duty to work collectively toward universal access to clean, safe water sources.",
       "image": {
-        "main": "https://i.ibb.co/Kb1BCw8/food.jpg",
-        "compressed": "https://i.ibb.co/h8tpR1H/food-full.png",
-        "thumbnail": "https://i.ibb.co/XDjqrZW/food-thumbnail.png"
+        "main": "https://i.ibb.co/c1RcP9P/health.jpg",
+        "compressed": "https://i.ibb.co/64p14Sj/health-full.png",
+        "thumbnail": "https://i.ibb.co/7JXmVFf/health-thumbnail.png"
       },
-      "donation_amount": 19.99,
+      "donation_amount": 12.99,
       "color": {
-        "main": "#D97706",
-        "light": "#FCD34D",
-        "water": "#FEF3C7"
+        "main": "#3B82F6",
+        "light": "#93C5FD",
+        "water": "#DBEAFE"
       }
     },
     {
-      "id": 9,
-      "title": "Clean water for children",
+      "id": 8,
+      "title": "Clean water in rural area",
       "category": "Health",
-      "description": "I is the future.",
+      "description": "Ensuring that every individual has access to clean water is a fundamental human right and a pressing global necessity. Clean water serves as a cornerstone for sustaining life, promoting good health, and facilitating socioeconomic progress. Its significance lies not only in preventing waterborne diseases but also in elevating overall well-being, particularly for marginalized communities in impoverished regions. Clean water access plays a pivotal role in breaking the cycle of poverty by enhancing hygiene, supporting agricultural productivity, and facilitating education, especially for girls who are often burdened with the task of fetching water over long distances. It represents a crucial element in the establishment of resilient communities and the promotion of sustainable development, underscoring the collective responsibility to work towards universal access to uncontaminated and safe water sources.",
       "image": {
         "main": "https://i.ibb.co/c1RcP9P/health.jpg",
         "compressed": "https://i.ibb.co/64p14Sj/health-full.png",
@@ -153,27 +136,27 @@
       }
     },
     {
-      "id": 10,
-      "title": "Good education",
-      "category": "Education",
-      "description": "J is a must-have.",
+      "id": 9,
+      "title": "Enhancing Food Quality for All",
+      "category": "Food",
+      "description": "\"Enhancing Food Quality for All\" represents a compelling vision for a world in which access to wholesome, sustainable food is regarded as a fundamental entitlement. It serves as a clarion call, transcending geographical and societal boundaries, underscoring the imperative to revamp our food systems. This initiative urges us to prioritize locally sourced, organic, and environmentally-conscious dietary choices. It underscores the significance of supporting farmers committed to ethical and sustainable methods, all while curbing food wastage. In essence, \"Enhancing Food Quality for All\" prompts a collective shift toward healthier eating patterns, nourishing not just our bodies but also safeguarding the planet for posterity. It stands as a unifying mission in our quest for a brighter, healthier, and more equitable future.",
       "image": {
-        "main": "https://i.ibb.co/7QsQ4LK/education.jpg",
-        "compressed": "https://i.ibb.co/HhvYXsy/education-full.png",
-        "thumbnail": "https://i.ibb.co/NxJHBDj/education-thumbnail.png"
+        "main": "https://i.ibb.co/Kb1BCw8/food.jpg",
+        "compressed": "https://i.ibb.co/h8tpR1H/food-full.png",
+        "thumbnail": "https://i.ibb.co/XDjqrZW/food-thumbnail.png"
       },
-      "donation_amount": 16.99,
+      "donation_amount": 19.99,
       "color": {
-        "main": "#EF4444",
-        "light": "#FCA5A5",
-        "water": "#FEE2E2"
+        "main": "#D97706",
+        "light": "#FCD34D",
+        "water": "#FEF3C7"
       }
     },
     {
-      "id": 11,
-      "title": "Used Clothing Drive",
+      "id": 10,
+      "title": "Donate Used Clothing",
       "category": "Clothing",
-      "description": "K is king.",
+      "description": "Donating used clothing to help the less fortunate is a compassionate act that can significantly improve the lives of those in need. By gathering gently used garments from our own wardrobes and seeking contributions from our community, we can make a meaningful impact. Organizing and distributing these clothes to local shelters, community centers, schools, and nonprofits ensures that they reach those who require assistance. This act of generosity not only provides warmth and comfort but also promotes sustainability by extending the life of clothing and reducing waste. It's a simple yet powerful way to contribute to the well-being of our fellow citizens and create a more inclusive and caring society.",
       "image": {
         "main": "https://i.ibb.co/cgT2PTD/clothing.jpg",
         "compressed": "https://i.ibb.co/cN5MgD6/clothing-full.png",
@@ -187,10 +170,27 @@
       }
     },
     {
+      "id": 11,
+      "title": "Good education for all",
+      "category": "Education",
+      "description": "Securing a quality education for children in economically disadvantaged regions is of utmost importance. Education serves as a means to not only provide these young individuals with the knowledge and skills required to escape the cycle of poverty but also empowers them to realize their full potential. It nurtures critical thinking, creativity, and problem-solving abilities, enabling them to actively engage in the labor force and contribute to the economic progress of their communities. Furthermore, a strong education encourages improved health, upward social mobility, and a more profound comprehension of civic duties, thereby establishing the groundwork for a fairer and more prosperous society. In summary, quality education in impoverished areas stands as more than just a basic entitlement; it acts as a catalyst for positive transformation, dismantling obstacles and opening the doors to promising futures.",
+      "image": {
+        "main": "https://i.ibb.co/7QsQ4LK/education.jpg",
+        "compressed": "https://i.ibb.co/HhvYXsy/education-full.png",
+        "thumbnail": "https://i.ibb.co/NxJHBDj/education-thumbnail.png"
+      },
+      "donation_amount": 16.99,
+      "color": {
+        "main": "#EF4444",
+        "light": "#FCA5A5",
+        "water": "#FEE2E2"
+      }
+    },
+    {
       "id": 12,
-      "title":"Better Food for Everyone",
+      "title":"Improving Food Access for Everyone",
       "category":"Food",
-      "description": "L brings luxury to your life.",
+      "description": "\"Improving Food Access for Everyone\" presents an inspiring vision of a world where every individual has equitable access to nourishing and sustainable food. This call to action transcends geographical and societal boundaries, emphasizing the need to transform our global food systems. It encourages us to prioritize local, organic, and environmentally responsible food choices. Furthermore, it highlights the significance of supporting farmers who employ ethical and sustainable practices while also addressing the issue of food wastage. In essence, \"Improving Food Access for Everyone\" prompts a collective shift towards healthier dietary habits, benefiting not only our personal well-being but also safeguarding the planet for future generations. It serves as a unifying mission, guiding our efforts towards a brighter, healthier, and more equitable future for all.",
       "image": {
         "main": "https://i.ibb.co/Kb1BCw8/food.jpg",
         "compressed": "https://i.ibb.co/h8tpR1H/food-full.png",
