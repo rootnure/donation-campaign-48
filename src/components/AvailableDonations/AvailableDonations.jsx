@@ -13,7 +13,7 @@ const AvailableDonations = () => {
 
     return (
         <section className='my-16'>
-            <div className="grid grid-cols-4 gap-4">
+            <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
                 {
                     allDonation.map(donation => <DonationCard
                         key={donation.id}

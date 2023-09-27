@@ -14,7 +14,7 @@ const DonationCard = ({ donation }) => {
                     <p style={{ backgroundColor: `${light}` }} className="px-2 py-[2px] rounded w-fit">{category}</p>
                 </div>
                 <div className='flex-grow flex items-center'>
-                    <h2 className="card-title">{title}</h2>
+                    <h2 className="card-title text-base md:text-lg lg:text-xl">{title}</h2>
                 </div>
             </div>
         </NavLink>

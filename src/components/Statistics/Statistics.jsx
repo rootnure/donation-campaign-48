@@ -25,13 +25,13 @@ const Statistics = () => {
 
     const radian = Math.PI / 180;
     const renderCustomizedLabel = ({ cx, cy, midAngle, innerRadius, outerRadius, percent }) => {
-        const radius = innerRadius + (outerRadius - innerRadius) * 0.5;
+        const radius = innerRadius + (outerRadius - innerRadius) * 0.45;
         const x = cx + radius * Math.cos(-midAngle * radian);
         const y = cy + radius * Math.sin(-midAngle * radian);
 
         return (
             <text className='text-xl' x={x} y={y} fill="white" textAnchor={x > cx ? 'start' : 'end'} dominantBaseline="central">
-                {`${(percent * 100).toFixed(0)}%`}
+                {`${(percent * 100).toFixed(1)}%`}
             </text>
         );
     };
@@ -39,6 +39,7 @@ const Statistics = () => {
     return (
         <main className='container mx-auto min-h-[calc(100vh-250px)]'>
             <section className='my-12'>
+                <div className="flex justify-center items-center text-center font-bold text-4xl mb-8">Donation Summary Chart</div>
                 <div className="flex justify-center items-center">
                     <PieChart width={400} height={400}>
                         <Pie
@@ -47,12 +48,11 @@ const Statistics = () => {
                             cy="50%"
                             labelLine={false}
                             label={renderCustomizedLabel}
-                            outerRadius={200}
-                            fill="#8884d8"
+                            outerRadius={185}
                             dataKey="value"
                         >
-                            {data.map((entry, index) => (
-                                <Cell key={`cell-${index}`} fill={colors[index % colors.length]} />
+                            {data.map((entry, idx) => (
+                                <Cell key={`cell-${idx}`} fill={colors[idx % colors.length]} />
                             ))}
                         </Pie>
                     </PieChart>

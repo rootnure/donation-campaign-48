@@ -27,7 +27,7 @@ const Donation = () => {
         <main className='container mx-auto min-h-[calc(100vh-250px)]'>
             <section className="flex flex-col justify-center items-center text-center min-h-[350px] my-12">
                 {donatedList.length ? '' : <h2 className="text-5xl text-gray-300 font-bold">Oops... No Donation Yet</h2>}
-                <div className="grid grid-cols-2 gap-4 w-full">
+                <div className="grid grid-cols-1 lg:grid-cols-2 gap-4 w-full">
                     {
                         donatedList.slice(0, loadDonatedListLength).map(donated => <DonatedListCard
                             key={donated.id}
