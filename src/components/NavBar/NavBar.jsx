@@ -21,11 +21,11 @@ const NavBar = () => {
                         {links}
                     </div>
                 </div>
-                <div className="dropdown -ml-2">
+                <div className="dropdown block md:hidden -ml-2">
                     <label tabIndex={0} className="btn btn-ghost md:hidden">
                         <GiHamburgerMenu className="scale-150"></GiHamburgerMenu>
                     </label>
-                    <ul tabIndex={0} className="menu menu-sm dropdown-content mt-3 z-[1] p-2 rounded space-y-4 -ml-8 bg-white">
+                    <ul tabIndex={0} className="menu menu-sm dropdown-content mt-3 z-[1] p-2 rounded space-y-4 -ml-8 text-center bg-white">
                         {links}
                     </ul>
                 </div>

@@ -39,7 +39,7 @@ const Statistics = () => {
     return (
         <main className='container mx-auto min-h-[calc(100vh-250px)]'>
             <section className='my-12'>
-                <div className="flex justify-center items-center text-center font-bold text-4xl mb-8">Donation Summary Chart</div>
+                <div className="flex justify-center items-center text-center font-bold text-3xl md:text-4xl mb-8">Donation Summary Chart</div>
                 <div className="flex justify-center items-center">
                     <PieChart width={400} height={400}>
                         <Pie
